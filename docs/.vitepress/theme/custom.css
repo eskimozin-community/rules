@@ -9,12 +9,13 @@ html {
   background-clip: text !important;
 }
 
-.VPNavBarTitle .title {
+.VPNavBarTitle .title span {
   overflow: hidden;
-  white-space: nowrap;
+  line-clamp: 1;
+  --webkit-line-clamp: 1;
+  text-wrap: nowrap;
   text-overflow: ellipsis;
 }
-
 
 /* Home IMG */
 .VPImage.image-src {

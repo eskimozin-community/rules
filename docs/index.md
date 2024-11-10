@@ -2,26 +2,22 @@
 layout: home
 
 hero:
-  name: "Eskimozin Community"
-  text: "Rules for the community"
+  name: "Regras para a Comunidade do Eskimozin"
   tagline: "#community #eskimozin #eskimozinCraft #melhorModeracao #mods"
   actions:
     - theme: brand
-      text: Resumo
-      link: /resume
+      text: Twitch
+      link: /twitch-rules
     - theme: alt
-      text: Regras em detalhes
-      link: /rules
+      text: Discord
+      link: /discord-rules
 
 features:
-  - link: /resume
-    title: Resumo
-    details: Regras para uma boa comunidade simplificadas e de fácil entendimento.
-  - link: /rules
-    title: Regras em detalhes
-    details: Em detalhes, regra por regra explicada e com exemplos práticos do que deve ser evitado.
-  - link: /pdf
-    title: Regras em PDF
-    details: Leia ou baixe o arquivo.
+  - link: /twitch-rules
+    title: Regras para a Twitch
+    details: A live em um ambiente saudável.
+  - link: /discord-rules
+    title: Regras para o Discord
+    details: Visando uma boa comunidade.
 ---
 
