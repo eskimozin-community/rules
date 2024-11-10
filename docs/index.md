@@ -6,15 +6,15 @@ hero:
   tagline: "#community #eskimozin #eskimozinCraft #melhorModeracao #mods"
   actions:
     - theme: brand
-      text: Twitch
-      link: /twitch-rules
+      text: Live
+      link: /live-rules
     - theme: alt
       text: Discord
       link: /discord-rules
 
 features:
-  - link: /twitch-rules
-    title: Regras para a Twitch
+  - link: /live-rules
+    title: Regras para as lives
     details: A live em um ambiente saudável.
   - link: /discord-rules
     title: Regras para o Discord

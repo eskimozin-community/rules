@@ -24,8 +24,8 @@ export default defineConfig({
         text: 'Navegue',
         items: [
           { text: 'Regras para o Discord', link: '/discord-rules' },
-          { text: 'Regras para a Twitch', link: '/twitch-rules' },
-          { text: 'Contato', link: '/contact' },
+          { text: 'Regras para a Live', link: '/live-rules' },
+          { text: 'Contato com a moderação', link: '/contact' },
         ]
       }
     ],

@@ -68,8 +68,3 @@
 
 - Bots de Moderação: Os bots podem ser usados para automatizar a moderação. Isso inclui impedir o uso de palavrões, detectar spam e monitorar links maliciosos.  
 - Não Tente Burlar Bots: Tentativas de burlar bots ou sistemas automatizados de moderação resultarão em punições severas.
-
-## Regras de Participação
-
-- Atividade: Membros inativos por longos períodos podem ser removidos para manter a comunidade ativa.  
-- Participação nos Tópicos: Incentive a participação nas discussões e atividades da comunidade. Participar de forma construtiva é sempre valorizado.
