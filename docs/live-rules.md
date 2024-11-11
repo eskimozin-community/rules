@@ -66,15 +66,16 @@
 - Interferir nos comandos do bot de maneira que prejudique o chat ou o funcionamento da live (ex: repetição excessiva de comandos).
 - Tentar hackear ou manipular o funcionamento do bot para obter vantagens ou resultados irregulares.
 
-## 12. Não Forçar o Banimento
+## 12. Não forçar a aplicação de timeout ou banimento
 
-**Descrição:** Comportamentos intencionais de desrespeito às regras da comunidade, como criar conflitos, fazer provocações ou agir de forma que provoque a moderação.
+**Descrição:** Comportamentos intencionais de desrespeito às regras da comunidade, como criar conflitos, fazer provocações ou agir de forma que provoque a moderação com o objetivo de receber timeout ou banimento.
 
 ### O que isso significa?
 
 - Não agir de maneira provocativa ou desrespeitosa para ser banido ou chamar atenção de forma negativa.
 - Não insistir em desobedecer às regras repetidamente com a intenção de ser punido.
 - Compreender que a moderação é para manter a qualidade da experiência para todos, e não para alimentar conflitos.
+- Não solicitar que seja banido para aparecer na live na pedidos de desbanimento.
 
 ### Exemplos de bom comportamento
 
@@ -86,3 +87,10 @@
 
 - Comportamentos como ofensas constantes, ignorar as regras ou insultar os moderadores com o objetivo de ser banido.
 - Criar situações de confronto, como desafiar moderadores ou desrespeitar as orientações de forma deliberada.
+
+### Ação
+
+Para casos em que o usuário forçar o banimento para aparecer na live de pedidos de desbanimento:
+
+- O usuário será banido.
+- Caso faça pedido de unban será rejeitado pelos moderadores.
