@@ -1,8 +1,8 @@
-# Discord
+# Regras para a Comunidade do Eskimozin no Discord
 
 O comportamento adequado dos membros é fundamental para manter um ambiente saudável, inclusivo e divertido para todos no servidor. Abaixo estão as regras de comportamento detalhadas, juntamente com exemplos e orientações sobre como aplicá-las.
 
-## 1. **Respeito Mútuo**
+## 1. Respeito Mútuo
 
    **Seja educado, cortês e trate todos com consideração.**
 
@@ -10,7 +10,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Discordar de alguém de maneira respeitosa e construtiva.
 - **O que evitar**: Piadas ofensivas ou comentários que desmereçam alguém.
 
-## 2. **Sem Discriminação**
+## 2. Sem Discriminação
 
    **Não toleramos discriminação de qualquer tipo.**
 
@@ -18,7 +18,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Evitar estereótipos e promover um ambiente inclusivo.
 - **O que evitar**: Piadas ou comentários preconceituosos.
 
-## 3. **Conteúdo Apropriado**
+## 3. Conteúdo Apropriado
 
    **Mantenha o conteúdo adequado para todas as idades e sensibilidades.**
 
@@ -26,7 +26,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Compartilhar conteúdo que se encaixe no contexto e faixa etária do servidor.
 - **O que evitar**: Links ou imagens de conteúdo adulto ou perturbador fora de canais específicos.
 
-## 4. **Sem Spam ou Flood**
+## 4. Sem Spam ou Flood
 
    **Evite mensagens repetitivas, autopromoção ou flood de emojis.**
 
@@ -34,7 +34,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Consolidar ideias em uma mensagem clara e objetiva.
 - **O que evitar**: Enviar mensagens repetidas ou spam de links.
 
-## 5. **Sem Conteúdo Ilegal**
+## 5. Sem Conteúdo Ilegal
 
    **Atividades ilegais, como pirataria e hacks, são proibidas.**
 
@@ -42,7 +42,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Compartilhar links legítimos e respeitar as leis de direitos autorais.
 - **O que evitar**: Pedir ou oferecer conteúdo pirata ou participar de atividades ilegais.
 
-## 6. **Sem Intimidação ou Bullying**
+## 6. Sem Intimidação ou Bullying
 
    **Não toleramos bullying ou assédio.**
 
@@ -50,7 +50,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Tratar todos com empatia e paciência.
 - **O que evitar**: Comentários depreciativos ou formarem grupos exclusivos que excluem outros.
 
-## 7. **Respeito à Privacidade**
+## 7. Respeito à Privacidade
 
    **Proteja a privacidade de todos.**
 
@@ -58,7 +58,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Perguntar antes de compartilhar informações pessoais ou conversas privadas.
 - **O que evitar**: Espalhar boatos ou expor informações privadas de outros.
 
-## 8. **Sem Drama Pessoal**
+## 8. Sem Drama Pessoal
 
    **Conflitos devem ser resolvidos de forma privada, sem atrapalhar a comunidade.**
 
@@ -66,7 +66,7 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **Exemplo de bom comportamento**: Resolver desacordos fora dos canais públicos.
 - **O que evitar**: Disputas ou brigas públicas que causem desconforto para outros.
 
-## 9. **Ajuda Mútua e Colaboração**
+## 9. Ajuda Mútua e Colaboração
 
    **Seja colaborativo e disposto a ajudar outros membros.**
 

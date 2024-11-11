@@ -1,4 +1,4 @@
-# Regras da Comunidade do Eskimozin na Twitch
+# Regras da Comunidade para as Lives do Eskimozin
 
 ## 1. Respeito e Educação
 
@@ -33,7 +33,7 @@
 ## 7. Não seja chato
 
 - **Descrição**: Promover seu próprio canal, músicas ou trabalhos que você fez e exigir que o streamer reaja a isso é muito chato. Se você procura divulgar o seu trabalho, utilize os meios destinados a isso, como o canal `#divulgacao` do servidor no Discord.
-- **Exemplo**: Mensagens como "Estou streamando agora, me segue lá" ou "Reaje a minha música eskimo [...]".
+- **Exemplo**: Mensagens como "Estou streamando agora, me segue lá" ou "Reaja a minha música eskimo [...]".
 
 ## 8. Evite Tópicos Sensíveis
 
