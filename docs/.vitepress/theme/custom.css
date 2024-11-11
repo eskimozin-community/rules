@@ -1,3 +1,11 @@
+:root {
+  --vp-custom-block-note-bg: #CACCFF !important;
+}
+
+html.dark {
+  --vp-custom-block-note-bg: rgba(101, 117, 133, 0.16) !important;
+}
+
 html {
   scroll-behavior: smooth;
 }

@@ -73,3 +73,8 @@ O comportamento adequado dos membros é fundamental para manter um ambiente saud
 - **O que significa**: Ajude sempre que possível, compartilhe informações e participe de eventos.
 - **Exemplo de bom comportamento**: Ajudar novatos com perguntas ou participar de discussões construtivas.
 - **O que evitar**: Ignorar ou ridicularizar quem precisa de ajuda.
+
+---
+
+> [!NOTE]
+> Regras em PDF: [clique aqui](discord-rules.pdf)

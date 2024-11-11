@@ -94,3 +94,8 @@ Para casos em que o usuário forçar o banimento para aparecer na live de pedido
 
 - O usuário será banido.
 - Caso faça pedido de unban será rejeitado pelos moderadores.
+
+---
+
+> [!NOTE]
+> Regras em PDF: [clique aqui](live-rules.pdf)
